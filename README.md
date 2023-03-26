@@ -8,7 +8,7 @@ Building realistic projects to improve my front-end skills.
 
 ### Links
 
-- Live Site URL: [Fylo dark theme landing page](https://soc1al-media-dashboard.netlify.app/)
+- Live Site URL: [Fylo dark theme landing page](https://fylo-land1ng-page-with-dark-theme.netlify.app/)
 
 ## Built with
 
